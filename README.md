@@ -5,17 +5,11 @@
 - Major: Computer science (Информатика и вычислительная техника)
 
 ## Projects
-- Open-source project [InnoTutor](https://github.com/InnoTutor/README) - a platform where students can find and help each other in studying university courses.
+- Open-source project [InnoTutor](https://github.com/InnoTutor/README) - a platform where students can find and help each other in studying university courses. In a team, I implemented a backend on Java/Spring. This project was mentioned by [Yegor Bugayenko](https://github.com/yegor256) in his [blog post](https://www.yegor256.com/2021/12/01/teaching.html).
 
-    In a team, I implemented a backend on Java/Spring. This project was mentioned by [Yegor Bugayenko](https://github.com/yegor256) in his [blog post](https://www.yegor256.com/2021/12/01/teaching.html).
+- Student project [InnoRussian](https://github.com/SMore-Napi/InnoRussian) - help newcomers who do not know Russian to get going in a few days and be able to live in Innopolis city. In a team, I participated in creating a mobile application written in Kotlin.
 
-- Student project [InnoRussian](https://github.com/SMore-Napi/InnoRussian) - help newcomers who do not know Russian to get going in a few days and be able to live in Innopolis city.
-
-    In a team, I participated in creating a mobile application written in Kotlin.
-
-- School project [Napi](https://github.com/SMore-Napi/Napi) - mobile and desktop applications for scanning a series of images and recognizing from which movie they are.
-
-    I implemented an Android application written in Java and a Desktop application using C++/Qt. The algorithm is quite simple - just compare picture's segments using several filters to reduce interference.
+- School project [Napi](https://github.com/SMore-Napi/Napi) - mobile and desktop applications for scanning a series of images and recognizing from which movie they are. I implemented an Android application written in Java and a Desktop application using C++/Qt. The algorithm is quite simple - just compare picture's segments using several filters to reduce interference.
 
 ## My contributions
 - Java/Spring backend for [Innometrics](https://github.com/InnopolisUniversity/innometrics-java-backend).
