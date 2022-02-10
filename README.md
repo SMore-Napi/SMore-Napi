@@ -19,7 +19,7 @@
 - AWS, Docker, Git, PostgreSQL, Singer | Open Source ETL,
 
 ## 🎓 Innopolis Univeristy
-Repositories with some courses which I studied
+Repositories with some courses and electives which I studied
 - [Operating systems](https://github.com/SMore-Napi/OS_Innopolis)
 - [Introduction to Artificial Intelligence](https://github.com/SMore-Napi/AI_Innopolis)
 - [Database Systems](https://github.com/SMore-Napi/DB_Innopolis)
