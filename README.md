@@ -26,7 +26,7 @@ Repositories with some courses which I studied
 - [Differential Equations](https://github.com/SMore-Napi/DE_Innopolis)
 - [Distributed and Network Programming](https://github.com/SMore-Napi/DNP_Innopolis)
 - [Programming Paradigms](https://github.com/SMore-Napi/PP_Innopolis)
-- [iOS Development with Swift](https://github.com/SMore-Napi/iOSFundamentals)
+- [iOS Development with Swift](https://github.com/SMore-Napi/iOS_Innopolis)
 - [Compiler Construction](https://github.com/SMore-Napi/Compilers_Innopolis)
 
 <!--
