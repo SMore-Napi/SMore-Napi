@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMore-Napi&show_icons=true&theme=transparent)
+
 ## 📊 Projects
 - Open-source project [InnoQueue](https://github.com/InnoQueue/Backend) - mobile application that can track household chores for roommates.
 
