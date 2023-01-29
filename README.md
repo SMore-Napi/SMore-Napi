@@ -15,15 +15,16 @@
 - [InnoQueue](https://github.com/InnoQueue/Backend) - Kotlin/Spring backend
 
 ## 👨‍💻 Stack
-- Java, Spring Boot, JavaFX
-- Kotlin, Swift, Python
+- Java, Kotlin, Spring Boot, JavaFX
+- Swift, Python
 - Scala, Haskell, Racket, Prolog 
 - Unity, Qt, C#, C, C++
-- AWS, Docker, Git, PostgreSQL, Singer | Open Source ETL
+- Git, Docker, PostgreSQL, AWS
 
 ## 🎓 Innopolis Univeristy
-Repositories with some courses and electives
-- [Operating systems](https://github.com/SMore-Napi/OS_Innopolis)
+<details> <summary> Repositories with some courses and electives </summary>
+
+ - [Operating systems](https://github.com/SMore-Napi/OS_Innopolis)
 - [Introduction to Artificial Intelligence](https://github.com/SMore-Napi/AI_Innopolis)
 - [Database Systems](https://github.com/SMore-Napi/DB_Innopolis)
 - [Differential Equations](https://github.com/SMore-Napi/DE_Innopolis)
@@ -31,6 +32,10 @@ Repositories with some courses and electives
 - [Programming Paradigms](https://github.com/SMore-Napi/PP_Innopolis)
 - [iOS Development with Swift](https://github.com/SMore-Napi/iOS_Innopolis)
 - [Compiler Construction](https://github.com/SMore-Napi/Compilers_Innopolis) and [Advanced Compilers Construction and Program Analysis](https://github.com/SMore-Napi/Compilers_Advanced_Innopolis)
+- [DevOps](https://github.com/SMore-Napi/DevOps_Innopolis)
+- [Introduction to Functional Programming and Scala Language](https://github.com/SMore-Napi/Scala_Innopolis)
+
+</details>
 
 <!--
 - 🔭 I’m currently working on ...
