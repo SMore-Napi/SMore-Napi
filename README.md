@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMore-Napi&show_icons=true&theme=transparent)
 
 ## 📊 Projects
-- Open-source project [InnoQueue](https://github.com/InnoQueue/Backend) - mobile application that can track household chores for roommates.
+- Open-source project [InnoQueue](https://github.com/InnoQueue/backend) - mobile application that can track household chores for roommates.
 
 - Open-source project [InnoTutor](https://github.com/InnoTutor/README) - a platform where students can find and help each other in studying university courses. This project was mentioned by [Yegor Bugayenko](https://github.com/yegor256) in his [blog post](https://www.yegor256.com/2021/12/01/teaching.html).
 
@@ -12,7 +12,7 @@
 ## 🎯 My contributions
 - [Innometrics](https://github.com/InnopolisUniversity/innometrics-java-backend) - Java/Spring backend
 - [InnoTutor](https://github.com/InnoTutor) - Java/Spring backend
-- [InnoQueue](https://github.com/InnoQueue/Backend) - Kotlin/Spring backend
+- [InnoQueue](https://github.com/InnoQueue/backend) - Kotlin/Spring backend
 
 ## 👨‍💻 Stack
 - Java, Kotlin, Spring Boot, JavaFX
